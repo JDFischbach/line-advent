@@ -1,0 +1,219 @@
+{
+  "1":{
+    "result": 1,
+    "hints":[
+      "Holly Jolly Christmas",
+      "Silent night",
+      "Jinlge Bells"
+    ],
+    "poi": 0
+  },
+  "2":{
+    "result": 2,
+    "hints":[
+      "Wrecking Ball",
+      "Last Christmas",
+      "Ocean Eyes"
+    ],
+    "poi": 20
+  },
+  "3":{
+    "result": 3,
+    "hints":[
+      "Kling Glöckchen Klingeling",
+      "California Dreamin",
+      "Little Drummer Boy"
+    ],
+    "poi":40
+  },
+  "4":{
+    "result": 1,
+    "hints":[
+      "Let it snow",
+      "Little drummer boy",
+      "Silent night"
+    ],
+    "poi":10
+  },
+  "5":{
+    "result": 3,
+    "hints":[
+      "12 days of christmas",
+      "I´m dricing home for christmas",
+      "Under pressure"
+    ],
+    "poi":0
+  },
+  "6":{
+    "result": 1,
+    "hints":[
+      "Wie du",
+      "Something Stupid",
+      "Don´t go breaking my heart"
+    ],
+    "poi":100
+  },
+  "7":{
+    "result": 1,
+    "hints":[
+      "Silent night",
+      "Oh holy night",
+      "Leise rieselt der Schnee"
+    ],
+    "poi":200
+  },
+  "8":{
+    "result": 3,
+    "hints":[
+      "Vois sur ton chemin",
+      "Cerf volant",
+      "Mama, wo bist du"
+    ],
+    "poi":150
+  },
+  "9":{
+    "result": 1,
+    "hints":[
+      "Mery´s boy child",
+      "Die Schatten werden länger",
+      "I did it my way"
+    ],
+    "poi":170
+  },
+  "10":{
+    "result": 1,
+    "hints":[
+      "Radio Gaga",
+      "Pressure",
+      "Another one bites the dust"
+    ],
+    "poi":0
+  },
+  "11":{
+    "result": 3,
+    "hints":[
+      "Footballer´s wife",
+      "Poison Prince",
+      "Mr Rock & Roll"
+    ],
+    "poi":0
+  },
+  "12":{
+    "result": 2,
+    "hints":[
+      "Rudolph the red nosed raindeer",
+      "12 days of christmas",
+      "Kling Glöckchen Klingeling"
+    ],
+    "poi":160
+  },
+  "13":{
+    "result": 2,
+    "hints":[
+      "So long, Jimmy",
+      "Goodbye my lover",
+      "No Bravery"
+    ],
+    "poi":0
+  },
+  "14":{
+    "result": 3,
+    "hints":[
+      "Have yourself a merry little christmas",
+      "Money Money Money",
+      "Lonely this Christmas"
+    ],
+    "poi":210
+  },
+  "15":{
+    "result": 3,
+    "hints":[
+      "Save tonight",
+      "Sleep tonight",
+      "This is the life"
+    ],
+    "poi":0
+  },
+  "16":{
+    "result": 1,
+    "hints":[
+      "Show must go on",
+      "Bohemian Rapsody",
+      "Californication"
+    ],
+    "poi":0
+  },
+  "17":{
+    "result": 1,
+    "hints":[
+      "Der letzte Tanz",
+      "Schiller",
+      "Alle tanzen mit dem Tod"
+    ],
+    "poi":0
+  },
+  "18":{
+    "result": 3,
+    "hints":[
+      "Sleigh ride",
+      "It´s beginning to look a lot like christmas",
+      "Driving home for christmas"
+    ],
+    "poi":160
+  },
+  "19":{
+    "result": 1,
+    "hints":[
+      "I want it all",
+      "Show must go on",
+      "Californication"
+    ],
+    "poi":0
+  },
+  "20":{
+    "result": 3,
+    "hints":[
+      "Merry little christmas",
+      "Silver Bells",
+      "Rudolph"
+    ],
+    "poi":0
+  },
+  "21":{
+    "result": 3,
+    "hints":[
+      "High",
+      "You´re beautiful",
+      "So long, Jimmy"
+    ],
+    "poi":0
+  },
+  "22":{
+    "result": 2,
+    "hints":[
+      "Diamonds",
+      "Happy Xmas - War is over",
+      "Wrecking ball"
+    ],
+    "poi":200
+  },
+  "23":{
+    "result": 3,
+    "hints":[
+      "Rudolph the red nosed reindeer",
+      "Alle tanzen mit dem Tod",
+      "Milch"
+    ],
+    "poi":110
+  },
+  "24":{
+    "result": 3,
+    "hints":[
+      "Kitsch",
+      "Freude schöner Götterfunke",
+      "Knoblauch"
+    ],
+    "poi":10
+  }
+}
+

@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import Door from './components/Door';
-import hints from './hints.json'
+import doors from './doors.json'
 import Grid from '@mui/material/Grid';
 
 function App() {
   var audioContext = new AudioContext();
+  const doors_list = Object.keys(doors).map((key, index) => <Door {...{audioContext}} {...doors[key]} day={index+1} key={index} />)
   return (
     <div className="App">
       <header className="App-header">
@@ -14,7 +15,7 @@ function App() {
             spacing={4} direction="column" 
             justifyContent="center"
             alignItems="center">
-          {hints.map((hint, idx) => <Door {...{hint, audioContext}} day={idx+1} key={idx} />)}
+          {doors_list}
         </Grid>
       </header>
     </div>
